@@ -1,5 +1,6 @@
 *.class
 .metadata/
+node_modules/
 *.log
 *.DS_Store
 *.iml
