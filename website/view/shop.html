@@ -1,0 +1,229 @@
+<!doctype html>
+ <html>
+   <head>
+   	  <meta charset="utf-8">
+   	  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+      <title>商城首页</title>
+     <link rel="stylesheet" type="text/css" href="style/style.css">
+    <link rel="stylesheet" type="text/css" href="style/shop.css">
+	  <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="js/zepto.min.js"></script>
+    <script type="text/javascript" src="js/jquery.event.drag-1.5.min.js"></script>
+<script type="text/javascript" src="js/jquery.touchSlider.js"></script>
+<!--轮播-->   
+   <script type="text/javascript">
+    	
+  $(document).ready(function(){
+
+	$(".main_visual").hover(function(){
+		$("#btn_prev,#btn_next").fadeIn()
+	},function(){
+		$("#btn_prev,#btn_next").fadeOut()
+	});
+	
+	$dragBln = false;
+	
+	$(".main_image").touchSlider({
+		flexible : true,
+		speed : 200,
+		btn_prev : $("#btn_prev"),
+		btn_next : $("#btn_next"),
+		paging : $(".flicking_con a"),
+		counter : function (e){
+			$(".flicking_con a").removeClass("on").eq(e.current-1).addClass("on");
+		}
+	});
+	
+	$(".main_image").bind("mousedown", function() {
+		$dragBln = false;
+	});
+	
+	$(".main_image").bind("dragstart", function() {
+		$dragBln = true;
+	});
+	
+	$(".main_image a").click(function(){
+		if($dragBln) {
+			return false;
+		}
+	});
+	
+	timer = setInterval(function(){
+		$("#btn_next").click();
+	}, 5000);
+	
+	$(".main_visual").hover(function(){
+		clearInterval(timer);
+	},function(){
+		timer = setInterval(function(){
+			$("#btn_next").click();
+		},5000);
+	});
+	
+	$(".main_image").bind("touchstart",function(){
+		clearInterval(timer);
+	}).bind("touchend", function(){
+		timer = setInterval(function(){
+			$("#btn_next").click();
+		}, 5000);
+	});
+	
+});
+    </script>
+   </head>
+   <body>
+   	<div class="con">
+       <header  class="clearfix header_">
+       	  <div class="down_content">
+       	     <img src="images/down_content.png">
+       	  </div>
+       	  <div class="search">
+             <span class="search_img"><img src="images/search.png"></span> <input type="search" name="search" placeholder="搜索">
+       	  </div>
+
+       	  <div class="more_shop">
+             <p>更多店铺</p>
+            <ul>
+               <li>广州分店<span>惠州旗舰店</span></li>
+
+            </ul>
+
+       	  </div>
+       </header>
+
+<div class="main_visual">
+	<div class="flicking_con">
+		<a href="#">1</a>
+		<a href="#">2</a>
+		<a href="#">3</a>
+		
+	</div>
+	<div class="main_image">
+		<ul>
+			
+			<li><span class="img_1" style="background:url('./images/1.jpg') center top no-repeat"></span></li>
+			<li><span class="img_2" style="background:url('./images/2.jpg') center top no-repeat"></span></li>
+			<li><span class="img_3" style="background:url('./images/3.jpg') center top no-repeat"></span></li>
+		</ul>
+		<a href="javascript:;" id="btn_prev"></a>
+		<a href="javascript:;" id="btn_next"></a>
+	</div>
+</div>
+
+      <div class="img">
+        <div><img src="images/app_10.png"><p>新品上市</p></div>
+        <div><img src="images/app_11.png"><p>热销产品</p></div>
+        <div><img src="images/app_12.png"><p>店家推荐</p></div>
+       </div>
+
+       <div class="shop_content">
+            <p><span class="recommend_">精品推荐</span><a href="">更多>></a></p>
+        </div>
+         
+          <div class="shop_content_  clearfix">
+               <div class="recommend_shop">
+                  	 <div><img src="images/app_15.png"></div>
+                  	 <span>美白滋润足部spa60min</span>
+
+                     <div class="al_sell">
+                         <span class="number_">已售0件</span>
+                         <span class="price">¥ 480.00</span>
+                     </div>
+                  </div>
+                  <div class="recommend_shop">
+                  	 <div><img src="images/app_15.png"></div>
+                  	 <span>美白滋润足部spa60min</span>
+
+                     <div class="al_sell">
+                         <span class="number_">已售0件</span>
+                         <span class="price">¥ 480.00</span>
+                     </div>
+                  </div>
+
+                     
+             </div> 
+                <div class="shop_content_  clearfix">
+               <div class="recommend_shop">
+                  	 <div><img src="images/app_15.png"></div>
+                  	 <span>美白滋润足部spa60min</span>
+
+                     <div class="al_sell">
+                         <span class="number_">已售0件</span>
+                         <span class="price">¥ 480.00</span>
+                     </div>
+                  </div>
+                  <div class="recommend_shop">
+                  	 <div><img src="images/app_15.png"></div>
+                  	 <span>美白滋润足部spa60min</span>
+
+                     <div class="al_sell">
+                         <span class="number_">已售0件</span>
+                         <span class="price">¥ 480.00</span>
+                     </div>
+                  </div>
+
+                     
+             </div> 
+                <div class="shop_content_  clearfix">
+               <div class="recommend_shop">
+                  	 <div><img src="images/app_15.png"></div>
+                  	 <span>美白滋润足部spa60min</span>
+
+                     <div class="al_sell">
+                         <span class="number_">已售0件</span>
+                         <span class="price">¥ 480.00</span>
+                     </div>
+                  </div>
+                  <div class="recommend_shop">
+                  	 <div><img src="images/app_15.png"></div>
+                  	 <span>美白滋润足部spa60min</span>
+
+                     <div class="al_sell">
+                         <span class="number_">已售0件</span>
+                         <span class="price">¥ 480.00</span>
+                     </div>
+                  </div>
+
+                     
+             </div> 
+               <div class="shop_content_  clearfix">
+               <div class="recommend_shop">
+                  	 <div><img src="images/app_15.png"></div>
+                  	 <span>美白滋润足部spa60min</span>
+
+                     <div class="al_sell">
+                         <span class="number_">已售0件</span>
+                         <span class="price">¥ 480.00</span>
+                     </div>
+                  </div>
+                  <div class="recommend_shop">
+                  	 <div><img src="images/app_15.png"></div>
+                  	 <span>美白滋润足部spa60min</span>
+
+                     <div class="al_sell">
+                         <span class="number_">已售0件</span>
+                         <span class="price">¥ 480.00</span>
+                     </div>
+                  </div>
+
+                     
+             </div> 
+   </div>
+   
+   
+   <ul class="bottom_fix clearfix">
+      <li><img src="images/botton_1_1.png">
+	      <p>我的</p>
+	    </li>
+	  <li><img src="images/botton_2.png">
+	     <p>预约</p>
+	  </li>
+	  <li><img src="images/botton_3_3.png">
+	    <p>商城</p>
+	  </li>
+	  <li><img src="images/botton_4.png">
+	     <p>门店</p>
+	  </li>
+ </ul>
+   </body>
+ </html>

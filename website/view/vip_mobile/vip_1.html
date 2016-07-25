@@ -1,0 +1,137 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>css3 翻牌</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link rel="stylesheet" href="level.css" type="text/css">
+<script type="text/javascript" src="jquery-1.9.1.min.js"></script>
+</head>
+<script>
+  jQuery(function(){ 
+     
+	  jQuery('.flip-container').click(function(){   
+	   jQuery(this).find('.front').toggleClass('active');
+	   jQuery(this).find('.back').toggleClass('active1');
+	})
+  })
+
+</script>
+<body>
+<div class="vip">
+<!--第一个VIP-->
+<div class="vip1">
+<ul>
+  <li class="flip-container">
+    <div class="flipper">
+       <div class="front" style="background:url('./images/vip_1_1.png') no-repeat;"></div>
+      <div class="back" style="background:url('./images/vip_1.png') no-repeat;">
+	     <div class="number">三折卡</div>
+	     <div class="item">
+		   <span>项目折扣：10折</span>
+		   <span>商品折扣：10折</span> 
+		 </div>
+		 <div class="rest">
+		    卡上余额:12121元
+		 </div>
+	  </div>
+     </div>
+   </li>
+</ul>
+</div>
+
+
+<!--第二个VIP-->
+<div class="vip2">
+<ul>
+  <li class="flip-container">
+    <div class="flipper">
+       <div class="front" style=" background:url('./images/vip_2_1.png') no-repeat;"></div>
+      <div class="back" style="  background:url('./images/vip_2.png') no-repeat;">
+	     <div class="number">钻石卡</div>
+	     <div class="item">
+		   <span>项目折扣：10折</span>
+		   <span>商品折扣：10折</span> 
+		 </div>
+		 <div class="rest">
+		    卡上余额:12121元
+		 </div>
+	  </div>
+     </div>
+   </li>
+</ul>
+</div>
+
+
+<!--第三个VIP-->
+<div class="vip3">
+<ul>
+  <li class="flip-container">
+    <div class="flipper">
+       <div class="front" style=" background:url('./images/vip_3_1.png') no-repeat;"></div>
+      <div class="back" style="  background:url('./images/vip_3.png') no-repeat;">
+	     <div class="number">白金卡</div>
+	     <div class="item">
+		   <span>项目折扣：10折</span>
+		   <span>商品折扣：10折</span> 
+		 </div>
+		 <div class="rest">
+		    卡上余额:12121元
+		 </div>
+	  </div>
+     </div>
+   </li>
+</ul>
+</div>
+
+
+<!--第四个VIP-->
+<div class="vip4">
+<ul>
+  <li class="flip-container">
+    <div class="flipper">
+       <div class="front" style=" background:url('./images/vip_4_1.png') no-repeat;"></div>
+      <div class="back" style="background:url('./images/vip_4.png') no-repeat;">
+	     <div class="number">五折卡</div>
+	     <div class="item">
+		   <span>项目折扣：10折</span>
+		   <span>商品折扣：10折</span> 
+		 </div>
+		 <div class="rest">
+		    卡上余额:12121元
+		 </div>
+	  </div>
+     </div>
+   </li>
+</ul>
+</div>
+
+
+
+<!--第五个VIP-->
+<div class="vip5">
+<ul>
+  <li class="flip-container">
+    <div class="flipper">
+       <div class="front" style=" background:url('./images/vip_5_1.png') no-repeat;"></div>
+      <div class="back" style=" background:url('./images/vip_5.png') no-repeat;">
+	     <div class="number">五折卡</div>
+	     <div class="item">
+		   <span>项目折扣：10折</span>
+		   <span>商品折扣：10折</span> 
+		 </div>
+		 <div class="rest">
+		    卡上余额:12121元
+		 </div>
+	  </div>
+     </div>
+   </li>
+</ul>
+</div>
+
+ <div class="fix">
+   <button>充值</button>
+  </div>
+</div>
+</body>
+</html>

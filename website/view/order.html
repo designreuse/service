@@ -1,0 +1,238 @@
+<!doctype html>
+ <html>
+   <head>
+   	  <meta charset="utf-8">
+   	  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+      <title>预约服务</title>
+     <link rel="stylesheet" type="text/css" href="style/style.css">
+    <link rel="stylesheet" type="text/css" href="style/shop.css">
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script> 
+    <script type="text/javascript" src="js/zepto.min.js"></script>
+   </head>
+   <script>
+    jQuery(function(){
+	    var count=jQuery('nav li').size();
+		jQuery('nav ul').css('width',count*72);
+	 
+	 
+	 })
+
+  jQuery(function(){    
+	jQuery('.swiper').click(function(){
+	
+	    jQuery('body').animate({left:'80%'})
+	   });
+	 
+    })
+	
+  jQuery(function(){ 
+    jQuery('.name_shop:eq(0)').find('p img').css('transform','rotate(90deg)')  
+	jQuery('.name_shop p').click(function(){
+	     if(jQuery(this).parent().find('ul').css('display')=='none'){
+		    jQuery(this).parent().find('ul').slideDown();
+			jQuery(this).find('img').css('transform','rotate(90deg)')
+			
+		 }
+		 else{
+		    jQuery('.name_shop').find('ul').slideUp();
+			jQuery('.name_shop p').find('img').css('transform','rotate(0deg)')
+		 }
+	   }); 
+	   
+	  jQuery('.name_shop ul li').click(function(){
+	     jQuery(this).addClass('active').siblings('li').removeClass('active');
+	   }); 
+    })
+	
+	
+	//第一个展开
+	jQuery(function(){    
+	   jQuery('.name_shop').eq(0).find('ul').show();
+	   
+    })
+	//向左滑。关闭
+   zepto(function(){    
+	 zepto('html').swipeLeft(function(){
+	     zepto('body').animate({left:'0%'})
+	   }); 
+    })
+	//向右滑。
+   zepto(function(){    
+	 zepto('html').swipeRight(function(){
+	     zepto('body').animate({left:'80%'})
+	   }); 
+    })
+	
+	
+   </script>
+   <body style="overflow:hidden">
+   <div class="order_left">
+      <div class="name_shop">
+	    <p>小高-分店1<span><img src="images/right.png"></span></p>
+	   <ul>
+	     <li>理发部<span><img src="images/right.png"></span></li>
+	     <li>理发部<span><img src="images/right.png"></span></li>
+		  <li>理发部<span><img src="images/right.png"></span></li>
+		   <li>理发部<span><img src="images/right.png"></span></li>
+	   </ul>
+	  
+	  </div>
+     <div class="name_shop">
+	    <p>小高-分店1<span><img src="images/right.png"></span></p>
+	   <ul>
+	     <li>理发部<span><img src="images/right.png"></span></li>
+	     <li>理发部<span><img src="images/right.png"></span></li>
+		  <li>理发部<span><img src="images/right.png"></span></li>
+		   <li>理发部<span><img src="images/right.png"></span></li>
+	   </ul>
+	  
+	  </div>
+   
+   </div>
+   <div class="order_right" style="position:relative">
+   	<div class="con">
+	 <header class="order_top">
+	    <div class="swiper">
+		  <img src="images/down_content.png">
+		</div>
+		<div class="header_select">
+		   <span>小高-分店1</span><select><option>美容店</option></select>
+		</div>
+	 
+	 </header>
+	 <nav>
+	   <ul class="clearfix order_ul">
+	     <li class="active">头发系列</li>
+         <li>馒头系列</li>  		 
+	     <li>花卷系列</li> 
+         <li>西瓜系列</li>  
+         <li>西瓜系列</li>  
+         <li>西瓜系列</li> 
+         <li>头发系列</li>
+         <li>馒头系列</li>  		 
+	     <li>花卷系列</li> 
+         <li>西瓜系列</li>  
+         <li>西瓜系列</li>  
+         <li>西瓜系列</li> 		 
+	   </ul>
+      </nav> 
+      <div class="order_content">
+        <ul>
+		  <li class="clearfix">
+		    <div class="mall_good"><img src="images/mall_good.png"></div>
+			<div class="mall_item">
+			   <p>洗头项目</p>
+			   <span>已服务:0</span>
+			 <div class="level"><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level_.png"></em></div>
+			 
+			</div>
+			 <div class="order_price">
+			     <h2>¥0.00</h2>
+			     <span>预约立减5元</span>
+			   </div>
+			   <div class="special">
+			     特惠预约
+			   </div>
+		  </li>
+		    <li class="clearfix">
+		    <div class="mall_good"><img src="images/mall_good.png"></div>
+			<div class="mall_item">
+			   <p>洗头项目</p>
+			   <span>已服务:0</span>
+			 <div class="level"><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level_.png"></em></div>
+			 
+			</div>
+			 <div class="order_price">
+			     <h2>¥0.00</h2>
+			     <span>预约立减5元</span>
+			   </div>
+			   <div class="special">
+			     特惠预约
+			   </div>
+		  </li>
+		    <li class="clearfix">
+		    <div class="mall_good"><img src="images/mall_good.png"></div>
+			<div class="mall_item">
+			   <p>洗头项目</p>
+			   <span>已服务:0</span>
+			 <div class="level"><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level_.png"></em></div>
+			 
+			</div>
+			 <div class="order_price">
+			     <h2>¥0.00</h2>
+			     <span>预约立减5元</span>
+			   </div>
+			   <div class="special">
+			     特惠预约
+			   </div>
+		  </li>
+		    <li class="clearfix">
+		    <div class="mall_good"><img src="images/mall_good.png"></div>
+			<div class="mall_item">
+			   <p>洗头项目</p>
+			   <span>已服务:0</span>
+			 <div class="level"><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level_.png"></em></div>
+			 
+			</div>
+			 <div class="order_price">
+			     <h2>¥0.00</h2>
+			     <span>预约立减5元</span>
+			   </div>
+			   <div class="special">
+			     特惠预约
+			   </div>
+		  </li>
+		    <li class="clearfix">
+		    <div class="mall_good"><img src="images/mall_good.png"></div>
+			<div class="mall_item">
+			   <p>洗头项目</p>
+			   <span>已服务:0</span>
+			 <div class="level"><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level_.png"></em></div>
+			 
+			</div>
+			 <div class="order_price">
+			     <h2>¥0.00</h2>
+			     <span>预约立减5元</span>
+			   </div>
+			   <div class="special">
+			     特惠预约
+			   </div>
+		  </li>  <li class="clearfix">
+		    <div class="mall_good"><img src="images/mall_good.png"></div>
+			<div class="mall_item">
+			   <p>洗头项目</p>
+			   <span>已服务:0</span>
+			 <div class="level"><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level.png"></em><em><img src="images/level_.png"></em></div>
+			 
+			</div>
+			 <div class="order_price">
+			     <h2>¥0.00</h2>
+			     <span>预约立减5元</span>
+			   </div>
+			   <div class="special">
+			     特惠预约
+			   </div>
+		  </li>
+        </ul>
+      </div>	  
+             
+   </div>
+   
+   
+   <ul class="bottom_fix clearfix">
+      <li><img src="images/botton_1_1.png">
+	      <p>我的</p>
+	    </li>
+	  <li><img src="images/botton_2.png">
+	     <p>预约</p>
+	  </li>
+	  <li><img src="images/botton_3_3.png">
+	    <p>商城</p>
+	  </li>
+	  <li><img src="images/botton_4.png">
+	     <p>门店</p>
+	  </li>
+ </ul>
+</div> 
+ </body>
+ </html>
