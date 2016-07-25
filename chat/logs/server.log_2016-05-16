@@ -1,0 +1,767 @@
+[2016-05-16 09:51:42.014] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-16 09:53:25.093] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : jqyOeyF-lNU1eL2OAAAA
+[2016-05-16 09:59:19.653] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : jUS3ex9Z0IlUUIevAAAB
+[2016-05-16 10:17:25.255] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-16 10:19:01.419] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : KzW8DI4YudhFRUhgAAAA
+[2016-05-16 10:19:13.121] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : -rQT_-D-utcdT-mIAAAB
+[2016-05-16 10:24:23.028] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : LrZ3DEUtiAxZuhh1AAAC
+[2016-05-16 10:24:54.663] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : L-d8h-gNKj_lqS_pAAAD
+[2016-05-16 10:36:46.879] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : E9FvGkFVDDgylkPhAAAE
+[2016-05-16 10:37:45.520] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : gMSLI-fyBru6bnXrAAAF
+[2016-05-16 10:38:44.335] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : KDHHozGjXROy-2cbAAAG
+[2016-05-16 10:38:52.119] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : Qa0smmsM9uM6QXHDAAAH
+[2016-05-16 10:40:36.505] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 7mfY62HQNDB25-Z7AAAI
+[2016-05-16 10:40:40.997] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : SVu6r4xm5CsQ1nT8AAAJ
+[2016-05-16 10:49:02.227] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : ZCahFWLUvYGjcTDxAAAK
+[2016-05-16 10:49:06.258] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : dgp4y5Ez6ixLErA7AAAL
+[2016-05-16 10:50:35.408] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-16 10:50:36.349] [ERROR] redis - [Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379]
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 10:50:37.608] [ERROR] redis - [Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379]
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 10:50:39.044] [ERROR] redis - [Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379]
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 10:50:40.781] [ERROR] redis - [Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379]
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 10:50:43.045] [ERROR] redis - [Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379]
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 10:51:54.843] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-16 10:51:54.852] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 10:51:54.853] [INFO] server - { data: 
+   { createTime: '2016-05-16 10:49:05',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 10:52:06.422] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 10:52:06.423] [INFO] server - { data: 
+   { createTime: '2016-05-16 10:52:06',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 10:52:07.574] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : aokhV-adKCjKzfQEAAAB
+[2016-05-16 10:52:56.745] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 10:52:56.760] [INFO] server - { data: 
+   { createTime: '2016-05-16 10:52:56',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 10:53:12.036] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : Sp2k5vzKXjuXLT8vAAAC
+[2016-05-16 10:54:50.136] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 10:54:50.137] [INFO] server - { data: 
+   { createTime: '2016-05-16 10:54:50',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 10:55:09.074] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 10:55:09.077] [INFO] server - { data: 
+   { createTime: '2016-05-16 10:55:09',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 11:26:40.191] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ETIMEDOUT 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ETIMEDOUT 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:27:01.628] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ETIMEDOUT 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ETIMEDOUT 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:27:23.370] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ETIMEDOUT 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ETIMEDOUT 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:27:45.632] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ETIMEDOUT 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ETIMEDOUT 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:27:48.989] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:27:53.625] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:28:00.802] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:28:12.277] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:28:31.072] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:29:02.297] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:29:54.637] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:31:22.886] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:33:44.791] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : TN12RrVgsh8qUsFnAAAE
+[2016-05-16 11:33:52.263] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 11:37:48.254] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : gZroHuZqXD3A5T6uAAAF
+[2016-05-16 11:37:58.843] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-16 11:38:06.025] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : VAMwtIWfNfog6oECAAAB
+[2016-05-16 11:38:59.761] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : MbRVXKo6dz5BpMxhAAAC
+[2016-05-16 11:39:03.040] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : InQQ127fo3klRrbIAAAD
+[2016-05-16 11:44:04.102] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 11:44:04.106] [INFO] server - { data: 
+   { createTime: '2016-05-16 11:44:04',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 11:44:06.130] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 2Su82a_cnHlFda5OAAAE
+[2016-05-16 11:44:48.753] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 11:44:48.754] [INFO] server - { data: 
+   { createTime: '2016-05-16 11:44:48',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 11:44:54.660] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : zpob5vciPiSlUgKXAAAF
+[2016-05-16 11:51:20.117] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 11:51:20.121] [INFO] server - { data: 
+   { createTime: '2016-05-16 11:51:20',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 11:51:25.166] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : zP_tp5R5iZq8TgFuAAAG
+[2016-05-16 11:51:49.806] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 11:51:49.807] [INFO] server - { data: 
+   { createTime: '2016-05-16 11:51:49',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 11:51:50.926] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : -5anRmHYtbsPqg3uAAAH
+[2016-05-16 11:53:04.578] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 11:53:04.578] [INFO] server - { data: 
+   { createTime: '2016-05-16 11:53:04',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 11:53:10.717] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : YAb3rWMs6fedmXddAAAI
+[2016-05-16 11:57:49.531] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 11:57:49.532] [INFO] server - { data: 
+   { createTime: '2016-05-16 11:57:49',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 11:57:56.781] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : aI1RhTWd3q6LIDHKAAAJ
+[2016-05-16 11:58:27.322] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 11:58:27.323] [INFO] server - { data: 
+   { createTime: '2016-05-16 11:58:27',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 11:58:57.638] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : UjKaUW2ER-NVAzeHAAAK
+[2016-05-16 12:00:09.608] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:00:09.609] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:00:09',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 12:00:15.777] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : _xym6yWYgvcnCaQoAAAL
+[2016-05-16 12:00:23.108] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:00:23.108] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:00:23',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 12:00:26.097] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : f0WSqaUv4cI2L_YIAAAM
+[2016-05-16 12:00:27.682] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:00:27.682] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:00:27',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 12:00:44.015] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : jUDJJVEo0hDBst_uAAAN
+[2016-05-16 12:02:03.827] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:02:03.828] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:02:03',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 12:02:06.190] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 4TrW_mH-meaZMQbEAAAO
+[2016-05-16 12:02:35.673] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:02:35.673] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:02:35',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 12:09:47.921] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:09:47.922] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:09:47',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 12:13:56.653] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:13:56.654] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:13:56',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 12:16:11.776] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 9Lu0EMx6EDfpN1I_AAAP
+[2016-05-16 12:16:36.252] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : D43XsDV6e7P0EHANAAAQ
+[2016-05-16 12:16:46.408] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : cWxtXERiPsRha4M5AAAR
+[2016-05-16 12:18:01.019] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:18:01.020] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:18:00',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 12:18:19.253] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 12:18:19.254] [INFO] server - { data: 
+   { createTime: '2016-05-16 12:18:19',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 13:48:10.070] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 13:54:58.433] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : Qm9XrFWEtKLBSgn2AAAS
+[2016-05-16 14:15:37.223] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : kzcBC0Rn4xTtJEQIAAAT
+[2016-05-16 14:37:41.816] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:37:43.369] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:38:26.684] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : k6COopt4D6uRZv9HAAAU
+[2016-05-16 14:38:40.642] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:38:42.111] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:38:43.877] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:38:46.158] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:38:49.325] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:38:53.978] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:39:01.151] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:39:12.635] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:39:31.425] [ERROR] redis - [Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379]
+Error: Redis connection to 112.74.210.155:6379 failed - connect ECONNREFUSED 112.74.210.155:6379
+    at RedisClient.on_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:185:24)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:95:14)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+    at emitErrorNT (net.js:1250:8)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+[2016-05-16 14:40:01.629] [ERROR] redis - [Error: Ready check failed: NOAUTH Authentication required.]
+Error: Ready check failed: NOAUTH Authentication required.
+    at RedisClient.on_info_cmd (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:368:35)
+    at Command.callback (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:418:14)
+    at RedisClient.return_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:558:25)
+    at ReplyParser.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:305:18)
+    at emitOne (events.js:77:13)
+    at ReplyParser.emit (events.js:169:7)
+    at ReplyParser.send_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\lib\parser\javascript.js:296:10)
+    at ReplyParser.execute (d:\jobwisdom\jobwisdom\chat\node_modules\redis\lib\parser\javascript.js:181:22)
+    at RedisClient.on_data (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:534:27)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:91:14)
+[2016-05-16 14:40:43.339] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 5sNdNMzOMVeeZKzJAAAV
+[2016-05-16 14:42:16.423] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : IsppTeUBi5aGPNESAAAW
+[2016-05-16 15:13:18.532] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : CMPXTHPTheG6j67iAAAX
+[2016-05-16 15:15:23.871] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:15:23.872] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:15:23',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:16:50.845] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : XpFC6J5799hc0J2iAAAY
+[2016-05-16 15:16:55.187] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:16:55.188] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:16:55',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:19:17.975] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:19:17.975] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:19:17',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:19:40.372] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : zJ-76RLWbvRHgs8tAAAZ
+[2016-05-16 15:20:15.868] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:20:15.868] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:20:15',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:20:34.660] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:20:34.661] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:20:34',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:20:55.982] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-16 15:20:55.998] [ERROR] redis - [Error: Ready check failed: NOAUTH Authentication required.]
+Error: Ready check failed: NOAUTH Authentication required.
+    at RedisClient.on_info_cmd (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:368:35)
+    at Command.callback (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:418:14)
+    at RedisClient.return_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:558:25)
+    at ReplyParser.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:305:18)
+    at emitOne (events.js:77:13)
+    at ReplyParser.emit (events.js:169:7)
+    at ReplyParser.send_error (d:\jobwisdom\jobwisdom\chat\node_modules\redis\lib\parser\javascript.js:296:10)
+    at ReplyParser.execute (d:\jobwisdom\jobwisdom\chat\node_modules\redis\lib\parser\javascript.js:181:22)
+    at RedisClient.on_data (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:534:27)
+    at Socket.<anonymous> (d:\jobwisdom\jobwisdom\chat\node_modules\redis\index.js:91:14)
+[2016-05-16 15:33:07.407] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-16 15:33:32.492] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 6a8Dik40C747ds2XAAAB
+[2016-05-16 15:33:48.451] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:33:48.452] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:33:48',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:55:12.948] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-16 15:55:12.956] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:55:12.957] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:53:43',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:55:19.565] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : sy1w2C6mQpg7QVpXAAAA
+[2016-05-16 15:55:36.083] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:55:36.095] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:55:36',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:56:21.018] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:56:21.019] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:56:21',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 15:56:27.620] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 15:56:27.621] [INFO] server - { data: 
+   { createTime: '2016-05-16 15:56:27',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 16:30:02.649] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-16 16:30:02.651] [INFO] server - { data: 
+   { createTime: '2016-05-16 16:30:02',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-16 16:30:36.278] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : FViga5QcM2njBSjmAAAB
+[2016-05-16 17:19:19.516] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : Q11VE1Nkh6MCTMDdAAAC
+[2016-05-16 17:19:23.849] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : seN4LvfYWS_F5GyTAAAD
+[2016-05-16 17:19:28.812] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : fKomRk0WmW7jB5rDAAAE

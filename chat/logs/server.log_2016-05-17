@@ -1,0 +1,144 @@
+[2016-05-17 10:26:20.461] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-17 10:26:25.058] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : TzOr9PlahcC9zJf4AAAA
+[2016-05-17 10:30:11.747] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : R3wGreNBhragI6FgAAAB
+[2016-05-17 10:30:34.238] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : c6XJfa7WlCHUl9vOAAAC
+[2016-05-17 10:43:12.758] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-17 10:43:12.759] [INFO] server - { data: 
+   { createTime: '2016-05-17 10:43:12',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-17 10:56:59.416] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : Cxxun4uvaloNb4HJAAAD
+[2016-05-17 10:57:07.949] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : Kz1v2hy5LoNBjHTEAAAE
+[2016-05-17 10:57:26.343] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : eEq6XYu6Dka0z61KAAAF
+[2016-05-17 12:01:08.144] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 3YSJLtoJHCGw-gyNAAAG
+[2016-05-17 12:02:35.989] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : aRSPG7s5yat4LGoGAAAH
+[2016-05-17 12:02:40.462] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : _usFwqjHO2YcG4ueAAAI
+[2016-05-17 12:09:47.336] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : jr8MDoAyk4EkdFCmAAAJ
+[2016-05-17 12:10:03.757] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : tvTFuZiIsdq7c2NOAAAK
+[2016-05-17 13:52:34.115] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : yXwHbiHJYeNpvkUGAAAL
+[2016-05-17 13:53:18.251] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 5wftNJfTg7WRLMomAAAM
+[2016-05-17 13:54:42.617] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : I4jvAsTfCwgBK5IDAAAN
+[2016-05-17 13:56:08.603] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : FzoYgKDrqXj5uW_uAAAO
+[2016-05-17 13:56:13.661] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : mO1F4GtsOunDtS6NAAAP
+[2016-05-17 13:56:22.193] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : puoIfnjjfZI3wajaAAAQ
+[2016-05-17 14:00:22.445] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 08xmiSlOwwKiU9UgAAAR
+[2016-05-17 14:01:49.610] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : yiQRAQf_rqz_t6XSAAAS
+[2016-05-17 14:01:54.639] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 6wUcsbJygjcN7UuFAAAT
+[2016-05-17 14:04:54.082] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 1oikepHH61siPwULAAAU
+[2016-05-17 14:05:00.766] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : -eyJqK8RhX36aYAXAAAV
+[2016-05-17 14:05:03.132] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : ZIX3ovdY4u89zeSUAAAW
+[2016-05-17 14:21:30.286] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : lobfNYUuwogDUt82AAAY
+[2016-05-17 14:23:07.494] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : _vsn8rNrTQwtOH6dAAAZ
+[2016-05-17 14:23:22.387] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 1R0EyTrsyPAJtUGZAAAa
+[2016-05-17 14:30:40.626] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : pU8O3Snup7ZcWTBSAAAb
+[2016-05-17 14:31:22.546] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : pvyyuy0BQq5y4hzRAAAc
+[2016-05-17 14:31:29.984] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : nrrpvc44uzvtslMhAAAd
+[2016-05-17 14:32:22.227] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : stcPWWewppraYz58AAAe
+[2016-05-17 14:32:31.802] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : hiCXmX-G2uTDxs0cAAAf
+[2016-05-17 14:32:34.838] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : mT-_HaM312NOqlQcAAAg
+[2016-05-17 14:32:40.983] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : RBpBFgobV8j_uRjCAAAh
+[2016-05-17 14:33:06.587] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : gG-pQ8onN7I2SIHDAAAi
+[2016-05-17 14:34:00.434] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : CfLq8lI9JyVO2ZmEAAAj
+[2016-05-17 14:34:04.823] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : CzHFvyPPMEGj_1CvAAAk
+[2016-05-17 14:36:10.892] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : zlK_e3cGOn3bB65MAAAl
+[2016-05-17 14:36:14.004] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 8k4NNMHeg-C_tVMMAAAm
+[2016-05-17 14:36:37.498] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 9E1x9Oty8LmHZ47pAAAn
+[2016-05-17 14:36:43.625] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : C5tQdcVStCjASK7-AAAo
+[2016-05-17 14:37:10.061] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : UWxx6l2N0Ust8_saAAAp
+[2016-05-17 14:42:43.167] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 9G7EcFq3td1Zct7IAAAq
+[2016-05-17 14:52:59.842] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : FDtCYcX348xIjyU4AAAr
+[2016-05-17 14:54:06.665] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 5CRNFJz7zDk9LtFBAAAs
+[2016-05-17 14:54:18.358] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : gmzfspLkegAH8fQcAAAt
+[2016-05-17 14:54:21.539] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : G0YAQnJ6hM-uoVXJAAAu
+[2016-05-17 14:55:50.754] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : vqcIZg8Rj1d0reIBAAAv
+[2016-05-17 14:55:54.457] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 9NKz0pcFet0KHPg6AAAw
+[2016-05-17 14:56:02.308] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : VKpfh3iuvt9aOwvJAAAx
+[2016-05-17 14:56:06.312] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : TdLBsTga0X5cWBhCAAAy
+[2016-05-17 14:56:09.772] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 3sOVWg82JKDfaLgrAAAz
+[2016-05-17 14:56:15.052] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : h96nC9hJpE04AQetAAA0
+[2016-05-17 14:56:18.692] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : iGg-5f4WbjPgS2mOAAA1
+[2016-05-17 14:56:30.924] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : -clmS7qvnqkRVRNrAAA2
+[2016-05-17 15:03:17.991] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : IJsc3ltbCL43rhQ1AAA3
+[2016-05-17 15:05:59.531] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : z2KDBn6vyqXk4hBJAAA4
+[2016-05-17 15:06:44.828] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 787xUbtjqet3l5LfAAA5
+[2016-05-17 15:07:06.860] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : _wA-Kk_9x5alsB4aAAA6
+[2016-05-17 15:07:10.414] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : ExoZrcOBIiiTrQHwAAA7
+[2016-05-17 15:07:13.474] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 4iFS80K7IkRJffsAAAA8
+[2016-05-17 15:07:16.650] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : oslKPql-WoDNMQSjAAA9
+[2016-05-17 15:07:19.109] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : g-vqrbP_dyj3yUXcAAA-
+[2016-05-17 15:07:21.388] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : TBNrzI5J9yaD7N9qAAA_
+[2016-05-17 15:07:24.181] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : jNdJd8mzHhNc2CIIAABA
+[2016-05-17 15:07:30.758] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : HMVYzWNU3nUwczLRAABB
+[2016-05-17 15:09:06.247] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : LPaoz5L8mFSjNkT4AABC
+[2016-05-17 15:09:10.824] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : JDVwbQrvZ6FSlJJaAABD
+[2016-05-17 15:11:15.090] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : o0vulH_vCPNAg5l_AABE
+[2016-05-17 15:11:20.388] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : fRP_ky-K_RqHEX8oAABF
+[2016-05-17 15:16:12.217] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : Qxh_Bu8Pf3BJt0x4AABG
+[2016-05-17 15:21:17.350] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : t8R-lV5pNCuApBPsAABH
+[2016-05-17 15:32:46.663] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : GQ2p2zFMHDUxwm43AABI
+[2016-05-17 15:32:50.875] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : oTJG6H7t_51LsfL9AABJ
+[2016-05-17 15:33:21.652] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : sG2wJ9kqbqoPEXYlAABK
+[2016-05-17 15:36:06.185] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : NwZNBU_DAK4UijyFAABL
+[2016-05-17 15:36:12.619] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : rTvw9DrGEqaOAK4bAABM
+[2016-05-17 15:40:34.662] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : mvExC2Z861IvIuMAAABN
+[2016-05-17 15:40:38.437] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : eg6ZHsuVkTkFMbzOAABO
+[2016-05-17 15:42:33.555] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : SukpiDM6ALtTfR7_AABP
+[2016-05-17 15:42:52.825] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 613mvzJ6LaZTAOrbAABQ
+[2016-05-17 16:01:45.404] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : eLbKK8J21RYmSBVdAABR
+[2016-05-17 16:03:48.643] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : vJXHzenaTzwgQdKVAABS
+[2016-05-17 16:09:59.935] [INFO] rabbitmq - rabbitmq is ready ... 
+[2016-05-17 16:10:55.885] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : jw8DumILCIxQj59RAAAB
+[2016-05-17 16:11:11.952] [INFO] server - 
+
+<-- receiveNotify begin -->
+[2016-05-17 16:11:11.956] [INFO] server - { data: 
+   { createTime: '2016-05-17 16:11:11',
+     length: 0,
+     msg: '1167号，您有新预约，请与顾客确认',
+     pkg: '',
+     receiveTime: '',
+     type: 2 },
+  fid: 2,
+  fromUser: '0',
+  toUser: '1954' }
+[2016-05-17 16:13:35.636] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : -e7M9KchBO64pak2AAAC
+[2016-05-17 16:26:28.136] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : bMPrfNhI1dyJcng0AAAD
+[2016-05-17 16:26:30.421] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : ilxdc2uHYcRqtew8AAAE
+[2016-05-17 16:47:57.842] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : Lzlx_90EM4RewhrfAAAF
+[2016-05-17 16:55:19.163] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : U_bHBejWm_Q-VrvzAAAG
+[2016-05-17 16:55:31.747] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : eIEVN7MpOLP5YSkBAAAH
+[2016-05-17 16:55:51.614] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 2Hs3-HS26DiARjYDAAAI
+[2016-05-17 16:55:56.946] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : _Ug_AAzffYRMRMVHAAAJ
+[2016-05-17 16:56:10.690] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : vpxXErKTAmgjL7hNAAAK
+[2016-05-17 16:56:13.679] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 8uGaAsCMiccC6G5PAAAL
+[2016-05-17 17:02:38.980] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 9-YgXgN7PLYw3i_0AAAM
+[2016-05-17 17:03:03.481] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : SfuC2C_15t39F9OCAAAN
+[2016-05-17 17:03:08.990] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : EXoNxXu5JLmQeEwEAAAO
+[2016-05-17 17:06:40.395] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : i-9QArDhMjb7mDcXAAAP
+[2016-05-17 17:06:44.663] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : RxGLxIPCZk9ptUHQAAAQ
+[2016-05-17 17:06:50.089] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 3XcJiST7NJ7NkSb2AAAR
+[2016-05-17 17:07:00.290] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 7sWDcfFos31_DnaEAAAS
+[2016-05-17 17:11:16.413] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : hFZJI-dTRHhAavsPAAAT
+[2016-05-17 17:22:59.281] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : W7rE0sxbdTwmrhQAAAAU
+[2016-05-17 17:41:07.699] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : HwhjeKBemtiXEzK2AAAV
+[2016-05-17 17:42:43.655] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : MtZtBlwqR9cJbwXfAAAW
+[2016-05-17 17:42:49.460] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 3EZ5kVkt4yqb3PBdAAAX
+[2016-05-17 17:42:53.259] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : ZUotu4hycx8iXNNbAAAY
+[2016-05-17 17:45:39.519] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : qfyNC65KEFSvMQEMAAAZ
+[2016-05-17 17:50:44.645] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : fNx5hgY1IeWvx6_8AAAa
+[2016-05-17 17:56:28.022] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : FWO9aQujRcmBc576AAAb
+[2016-05-17 17:56:33.468] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : GMaByDRZpasa60P0AAAc
+[2016-05-17 17:57:05.519] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : 3T36AUbDIKDT8kHqAAAd
+[2016-05-17 18:05:21.715] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : pEyjx_b_p5yvWw8RAAAe
+[2016-05-17 18:15:41.183] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : ZFtfGUqUKlA8jJJ4AAAf
+[2016-05-17 18:16:03.103] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : wldlo5Z8_-fFLddxAAAg
+[2016-05-17 18:16:09.341] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : yL2cS60qL3fsT7AaAAAh
+[2016-05-17 18:48:18.446] [INFO] server - initUser --->> 门店 :1137, 用户 : 1954, socketId : xjtsuCkniGGL8DBfAAAi
