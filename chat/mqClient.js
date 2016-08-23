@@ -2,9 +2,21 @@ var amqp = require("amqp");
 
 var exchName = "directExchange";
 
+// var connOptions = {
+
+//       host: '120.25.254.164',
+
+//       port: 5672,
+
+//       login: 'zefun',
+
+//       password: 'zefun'
+
+//     };
+
 var connOptions = {
 
-      host: '120.24.165.15',
+      host: '120.76.201.130',
 
       port: 5672,
 
@@ -57,11 +69,15 @@ conn.on('close', function(){
 
 });
 
+
+
 conn.on('error', function (error) {
 
   logger.error('Connection error : ' + error);
 
 });
+
+
 
 exports.createConnection = function(r1) {
   
@@ -69,8 +85,11 @@ exports.createConnection = function(r1) {
 
 }
 
+
+
 exports.publish = function(routeKey, message) {
 
   conn.publish(routeKey, message);
 
 };
+
